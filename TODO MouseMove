@@ -1,0 +1,14 @@
+
+1：
+
+
+Me.MaximizedBounds = screen.fromcontrol(Me).WorkingArea
+
+
+
+2:
+
+
+
+Me.MaximizedBounds = Screen.PrimaryScreen.WorkingArea
+Me.WindowState = FormWindowState.Maximized
